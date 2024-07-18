@@ -1,4 +1,5 @@
 # Lesson Plan Template
+This file is a lesson plan template for 6-8 graders
 This file serves as the primary lesson plan document for the repository.
 
 ## Template Description
